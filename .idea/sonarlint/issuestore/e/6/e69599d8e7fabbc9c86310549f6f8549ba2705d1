@@ -1,0 +1,4 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(â€´—şÿÿÿÿ8’Õ­‚/
+m
+java:S2095"KUse try-with-resources or close this "KafkaProducer" in a "finally" clause.(¹ÈÓ¦ûÿÿÿÿ8Ìá’¡‚/
